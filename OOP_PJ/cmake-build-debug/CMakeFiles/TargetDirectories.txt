@@ -1,0 +1,3 @@
+C:/Users/asus/CLionProjects/OOP_PJ/cmake-build-debug/CMakeFiles/OOP_PJ.dir
+C:/Users/asus/CLionProjects/OOP_PJ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/asus/CLionProjects/OOP_PJ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
